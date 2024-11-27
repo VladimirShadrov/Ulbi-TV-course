@@ -1,0 +1,13 @@
+button {
+  background: red;
+  padding: 8px 16px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 12px;
+  transition: all 0.2s;
+
+  &:hover {
+    background: purple;
+  }
+}
