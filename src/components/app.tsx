@@ -8,8 +8,6 @@ import { AsyncAboutPage } from '../pages/about.async';
 import { Suspense } from 'react';
 
 const App = () => {
-  console.log(1);
-
   return (
     <div>
       <Link to={'/'}>Главная</Link>
